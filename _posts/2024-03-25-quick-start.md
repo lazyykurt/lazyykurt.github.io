@@ -2,7 +2,7 @@
 ---
 title: quick start
 author: Kurt
-date: 2019-08-08 11:33:00 +0800
+date: 2024-03-25 11:33:00 +0800
 categories: [JavaScript, Typescript]
 pin: true
 math: true
